@@ -22,4 +22,4 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/typing-speed-test-game.git
+   git clone https:https://github.com/Abdelrahman-Elhabian/Typing-Speed-Test-Game
