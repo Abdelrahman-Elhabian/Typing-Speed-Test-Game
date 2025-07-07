@@ -1,0 +1,14 @@
+{
+  "name": "typing-speed-test-game",
+  "version": "1.0.0",
+  "description": "A web-based typing speed test game with customizable difficulty levels",
+  "main": "index21.html",
+  "scripts": {
+    "build": "mkdir -p dist && cp *.html *.css *.js dist/",
+    "dev": "python3 -m http.server 3000",
+    "preview": "cd dist && python3 -m http.server 4173"
+  },
+  "keywords": ["typing", "speed", "test", "game", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
